@@ -3,8 +3,8 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>third_docker</RootNamespace>
-    <UserSecretsId>c5a4a669-7cb1-42b2-ad02-210c3ab1ad09</UserSecretsId>
-    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <!--<UserSecretsId>c5a4a669-7cb1-42b2-ad02-210c3ab1ad09</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>-->
     <DockerfileContext>.</DockerfileContext>
   </PropertyGroup>
 
